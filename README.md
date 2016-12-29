@@ -14,7 +14,7 @@ CEF4BCB provide a simple method to develop a chromium browser based app in c++ b
 
 CEF4BCB only support CEF3
 
-Cef3 version: 3.2883.1539
+Cef3 version: 3.2883.1539 (chrome 55.0.2883.59)
 
 other branches comming soon (older and newer)
 
